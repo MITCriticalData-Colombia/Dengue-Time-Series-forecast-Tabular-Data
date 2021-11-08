@@ -1,0 +1,10 @@
+flowers_cnn.pth
+Pytorch_Basics_examples.ipynb
+Satellite Data.key
+Time Series.pptx
+PYTORCH_from0.ipynb
+Data/flowers_cnn/
+Data/flowers_split/
+Data/flowers/
+*.ipynb_checkpoints
+*.DS_Store
